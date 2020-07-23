@@ -1,0 +1,19 @@
+body{
+background-color:rgb(231, 55, 7);
+}
+div{
+text-align:center;
+}
+h1{
+text-align:center;
+}
+p{
+text-align:center;
+}
+ul{
+ display: inline-block;
+ text-align:left;
+}
+img{
+ text-align:left;
+}
